@@ -2416,7 +2416,7 @@ p {
 .switch-button input[type="checkbox"]:checked + label span::after {
   -webkit-transform: translateX(24px);
   transform: translateX(24px);
-  background-color: #542ded;
+  background-color: #a9dd55;
 }
 .switch-button p {
   display: inline-block;
@@ -3048,7 +3048,7 @@ p {
   border-color: #542ded;
 }
 .search-style-5 .search-btn button {
-  background-color: #00acb2;
+  background-color: #a9dd55;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -3490,10 +3490,10 @@ p {
   transition: all 0.3s linear;
 }
 .navbar-style-7 .navbar-container .navbar-close a:hover {
-  color: #542ded;
+  color: #a9dd55;
 }
 .navbar-style-7 .navbar-container .navbar-top-wrapper {
-  background-color: #00acb2;
+  background-color: #a9dd55;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navbar-style-7 .navbar-container .navbar-top-wrapper {
