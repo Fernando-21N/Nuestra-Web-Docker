@@ -11254,3 +11254,32 @@ p {
 .clients-logo-section .client-logo-active .slick-slide:focus {
   outline: 0;
 }
+
+/*----cookies----*/
+
+#cookies_box{
+  position: fixed;
+  bottom: 0;
+  background: #DFEBDE;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#cookies_box .container-cookies{
+  padding: 25px;
+  max-width: 90%;
+  display: flex;
+  font-size: 17px;
+}
+
+#cookies_box .container-cookies button{
+  border-radius: 8px;
+  margin-left: 25px;
+}
+#cookies_box .container-cookies button:hover{
+  background: #DFEBDE;
+}
+#cookies_box .container-cookies button:last-child{
+  margin-top: 10px;
+}
